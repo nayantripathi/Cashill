@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cashill</string>
+    <string name="welcomeRegisterButton">Register</string>
+    <string name="welcomeRegisterText">You are not a member?</string>
+    <string name="welcomeText">Welcome!</string>
+    <string name="nice_to_see_you_again">Nice to see you again!</string>
+    <string name="login">Login</string>
+    <string name="loginTopText">Hello There!</string>
+    <string name="emailHint">someone@gmail.com</string>
+    <string name="passwordHint">* * * * * * * *</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_top">Welcome!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="lender">Lender</string>
+    <string name="borrower">Borrower</string>
+    <string name="lender_request_on_process">Request on Process..</string>
+    <string name="lender_request_approved">Request Approved</string>
+    <string name="lender_create_request_button">Create Loan Request</string>
+</resources>
